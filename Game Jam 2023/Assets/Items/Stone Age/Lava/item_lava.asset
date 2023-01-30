@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: item_lava
   m_EditorClassIdentifier: 
   itemName: Lava
-  itemImage: {fileID: 0}
+  itemImage: {fileID: 21300000, guid: f3fedf4277cfffc48b184a7ee59f6c02, type: 3}

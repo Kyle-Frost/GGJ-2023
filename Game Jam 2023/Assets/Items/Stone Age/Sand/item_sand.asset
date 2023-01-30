@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b95903cf95ebdf947b8286cf10802834, type: 3}
   m_Name: item_sand
   m_EditorClassIdentifier: 
-  itemName: 
-  itemImage: {fileID: 0}
+  itemName: Sand
+  itemImage: {fileID: 21300000, guid: 8bba916264708d84b8eec53afc630163, type: 3}

@@ -8,6 +8,20 @@ public class DraggableItem : MonoBehaviour, IBeginDragHandler, IDragHandler, IEn
 {
     public Image image;
     public Transform parentAfterDrag;
+    public Transform originalParent;
+
+    public Item item;
+
+    private void Start()
+    {
+        originalParent = transform.parent;
+        image.sprite = item.itemImage;
+    }
+
+    public void UpdateImage()
+    {
+        image.sprite = item.itemImage;
+    }
 
     public void OnBeginDrag(PointerEventData eventData)
     {

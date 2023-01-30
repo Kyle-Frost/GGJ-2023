@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: item_water
   m_EditorClassIdentifier: 
   itemName: Water
-  itemImage: {fileID: 0}
+  itemImage: {fileID: 21300000, guid: c407f1b4c957fe74cb5b7dc846893dc5, type: 3}

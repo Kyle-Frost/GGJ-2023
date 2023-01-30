@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: item_air
   m_EditorClassIdentifier: 
   itemName: Air
-  itemImage: {fileID: 0}
+  itemImage: {fileID: 21300000, guid: 975d94874c4c9e643afc5c603f4abd4c, type: 3}
