@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13d189c8b9c6a234a94fc92fc162761a, type: 3}
+  m_Name: recipe_stone
+  m_EditorClassIdentifier: 
+  itemOne: {fileID: 11400000, guid: b4d4269baf3bc0f449db431a9a35dbaa, type: 2}
+  itemTwo: {fileID: 11400000, guid: 17e06ee79a2a6644fbd382f0bd008b39, type: 2}
+  createdItem: {fileID: 11400000, guid: 57a601cacef6b8c41939199ba8c326ce, type: 2}
